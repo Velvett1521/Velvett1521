@@ -3,7 +3,9 @@
 
 - 💬 Puedes contactarme para **JAVA, JS, HTML, Python, C++, PHP**
 
-- 📫 How to reach me **dfcarlos364@gmail.com**
+- 📫 Contactame en **dfcarlos364@gmail.com**
+
+- 💬 Mi sitio **https://velvett1521.github.io/Portafolio_De_Proyectos_CEDF/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
